@@ -1,8 +1,9 @@
 ---
-title: F7: Catalyst - Rapid Funding Mechanisms 
+title: F7 - Catalyst - Rapid Funding Mechanisms 
 description: How can we distribute Cardano Treasury funds more rapidly in a transparent, accountable, and safe manner?
 Ideascale: https://cardano.ideascale.com/a/campaign-home/26236
 ---
+
 ![2021-11-26 (1)](https://user-images.githubusercontent.com/25156451/143613470-4a69a7da-0ec0-4fc3-883d-1e4dec2e7468.png)
 
 
